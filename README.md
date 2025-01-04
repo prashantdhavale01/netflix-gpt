@@ -20,6 +20,14 @@
     @tailwind components;
     @tailwind utilities;
 
+    3. Created components
+      - Header
+      - Login Form
+      - SignUp Form
+
+    4. Setup routes
+       - npm i -D react-router-dom
+
 
 
 
